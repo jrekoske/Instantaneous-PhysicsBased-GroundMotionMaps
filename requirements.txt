@@ -1,0 +1,7 @@
+h5py
+ipykernel
+jupyter
+matplotlib
+numpy
+scikit-learn
+scipy
