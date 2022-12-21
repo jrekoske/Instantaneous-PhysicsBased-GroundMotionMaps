@@ -6,5 +6,5 @@ Journal of Geophysical Research: Solid Earth (2022).
 
 In this repository, we provide the simulated PGV maps, available in the
 `pgv_data` folder as HDF5 files. We also provide a demo Jupyter notebook
-which shows how to access the data and use radial basis function interpolation
+`demo.ipynb` which shows how to access the data and use radial basis function interpolation
 to create a reduced-order model.
